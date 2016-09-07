@@ -20,8 +20,8 @@ com/facebook/AuthorizationClient$BackgroundProcessingListener.class
 com/stripe/android/util/TextUtils.class
 android/support/v7/appcompat/R$attr.class
 org/apache/http/entity/HttpEntityWrapper.class
-org/apache/http/params/HttpParamsNames.class
 org/apache/http/client/HttpClient.class
+org/apache/http/params/HttpParamsNames.class
 org/apache/http/impl/SocketHttpClientConnection.class
 android/support/annotation/ColorRes.class
 com/ondemandbay/taxianytime/utils/PreferenceHelper.class
@@ -66,8 +66,8 @@ org/apache/http/conn/params/ConnPerRoute.class
 android/support/v4/widget/SimpleCursorAdapter.class
 com/google/android/gms/plus/model/people/Person$Image.class
 android/support/annotation/AttrRes.class
-android/support/v4/media/MediaBrowserCompat$Subscription.class
 org/apache/http/entity/mime/content/ByteArrayBody.class
+android/support/v4/media/MediaBrowserCompat$Subscription.class
 io/card/payment/ExpiryValidator.class
 org/apache/http/auth/AuthState.class
 android/support/v4/app/NoSaveStateFrameLayout.class
@@ -121,8 +121,8 @@ org/apache/http/impl/conn/LoggingSessionOutputBuffer.class
 com/ondemandbay/taxianytime/ProfileActivity$2.class
 com/ondemandbay/taxianytime/AddPaymentActivity.class
 com/google/android/gms/location/places/personalized/zze.class
-com/ondemandbay/taxianytime/models/ApplicationPages.class
 org/apache/http/client/utils/URIBuilder.class
+com/ondemandbay/taxianytime/models/ApplicationPages.class
 com/stripe/model/CustomerCardCollection.class
 android/support/v4/widget/MaterialProgressDrawable$1.class
 com/ondemandbay/taxianytime/MainDrawerActivity$5.class
@@ -225,8 +225,8 @@ android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
 org/apache/http/entity/ByteArrayEntity.class
 com/facebook/android/Facebook.class
 com/google/android/gms/plus/Plus.class
-android/support/v4/content/ContextCompat.class
 org/apache/http/message/BasicHeaderValueParser.class
+android/support/v4/content/ContextCompat.class
 android/support/v4/app/Fragment$1.class
 com/google/firebase/messaging/zzb.class
 android/support/v4/app/BaseFragmentActivityApi24.class
@@ -332,8 +332,8 @@ android/support/v4/app/NavUtils.class
 com/stripe/model/Transfer.class
 com/ondemandbay/taxianytime/models/Driver.class
 android/support/v4/view/ViewCompatJellybeanMr2.class
-android/support/v7/view/menu/SubMenuBuilder.class
 org/apache/http/entity/mime/content/AbstractContentBody.class
+android/support/v7/view/menu/SubMenuBuilder.class
 com/google/android/gms/common/SignInButton$ColorScheme.class
 org/apache/http/conn/ClientConnectionManagerFactory.class
 org/apache/http/conn/params/ConnPerRouteBean.class
@@ -385,8 +385,8 @@ org/apache/http/conn/params/ConnRoutePNames.class
 android/support/v4/media/VolumeProviderCompatApi21$Delegate.class
 android/support/v7/app/AppCompatDelegate.class
 android/support/v4/util/ArrayMap$1.class
-android/support/v4/media/RatingCompat$Style.class
 org/apache/http/client/AuthenticationHandler.class
+android/support/v4/media/RatingCompat$Style.class
 android/support/v4/widget/MaterialProgressDrawable.class
 com/google/android/gms/common/internal/safeparcel/SafeParcelable.class
 com/stripe/model/Token.class
@@ -453,8 +453,8 @@ android/support/v7/graphics/drawable/DrawerArrowDrawable.class
 android/support/v7/widget/Toolbar.class
 org/apache/http/cookie/CookieSpecRegistry.class
 com/google/android/gms/location/places/NearbyAlertRequest.class
-io/card/payment/ui/ActivityHelper.class
 org/apache/http/client/params/ClientParamBean.class
+io/card/payment/ui/ActivityHelper.class
 android/support/annotation/RequiresPermission.class
 android/support/v4/app/TaskStackBuilder$SupportParentable.class
 com/google/android/gms/maps/StreetViewPanoramaView.class
@@ -464,8 +464,8 @@ com/splunk/mint/Mint.class
 org/apache/http/impl/conn/DefaultClientConnectionOperator.class
 org/apache/http/conn/BasicManagedEntity.class
 org/apache/http/entity/FileEntity.class
-org/apache/http/impl/auth/NegotiateSchemeFactory.class
 org/apache/http/impl/pool/BasicConnPool.class
+org/apache/http/impl/auth/NegotiateSchemeFactory.class
 com/ondemandbay/taxianytime/adapter/DrawerAdapter.class
 com/stripe/model/FeeRefund.class
 android/support/v7/widget/LinearLayoutCompat$OrientationMode.class
@@ -541,8 +541,8 @@ org/apache/http/conn/scheme/SchemeRegistry.class
 android/support/v4/media/session/MediaSessionCompat$QueueItem.class
 com/google/gson/annotations/Expose.class
 io/card/payment/CardScanner.class
-org/apache/http/conn/OperatedClientConnection.class
 org/apache/http/client/params/HttpClientParams.class
+org/apache/http/conn/OperatedClientConnection.class
 org/apache/http/protocol/DefaultedHttpContext.class
 android/support/v4/view/GravityCompat.class
 com/stripe/model/Balance.class
@@ -574,8 +574,8 @@ android/support/v4/media/MediaBrowserCompat$SubscriptionCallbackApi21.class
 com/facebook/AuthorizationClient$Result$Code.class
 org/apache/http/conn/HttpHostConnectException.class
 com/stripe/model/ApplicationFee.class
-org/apache/http/conn/params/ConnManagerPNames.class
 org/apache/http/params/HttpParams.class
+org/apache/http/conn/params/ConnManagerPNames.class
 com/google/android/gms/location/places/internal/PlaceLocalization.class
 org/apache/http/conn/scheme/SchemeLayeredSocketFactoryAdaptor2.class
 org/apache/http/impl/conn/HttpConnPool.class
@@ -646,8 +646,8 @@ org/apache/http/conn/params/ConnRouteParamBean.class
 com/ondemandbay/taxianytime/parse/AsyncTaskCompleteListener.class
 com/sromku/simple/fb/Permission$Role.class
 com/ondemandbay/taxianytime/ActionBarBaseActivitiy$3.class
-io/card/payment/DataEntryActivity$2.class
 org/apache/http/client/RedirectHandler.class
+io/card/payment/DataEntryActivity$2.class
 android/support/annotation/IdRes.class
 com/ondemandbay/taxianytime/ViewPaymentActivity$4.class
 io/card/payment/ui/ViewUtil.class
@@ -676,8 +676,8 @@ android/support/v7/view/menu/ShowableListMenu.class
 android/support/annotation/CallSuper.class
 org/apache/http/conn/scheme/SchemeSocketFactory.class
 com/stripe/model/RecipientCardCollection.class
-org/apache/http/client/methods/HttpRequestWrapper.class
 org/apache/http/client/protocol/RequestTargetAuthentication.class
+org/apache/http/client/methods/HttpRequestWrapper.class
 android/support/v4/media/session/MediaSessionCompat$1.class
 com/google/android/gms/common/zzc.class
 com/ondemandbay/taxianytime/component/MyFontEdittextView.class
@@ -694,8 +694,8 @@ android/support/v7/app/AppCompatDelegateImplV7.class
 com/google/android/gms/maps/GoogleMap.class
 org/apache/http/conn/scheme/SchemeLayeredSocketFactory.class
 com/google/android/gms/common/annotation/KeepName.class
-org/apache/http/impl/conn/tsccm/RouteSpecificPool.class
 org/apache/http/protocol/BasicHttpProcessor.class
+org/apache/http/impl/conn/tsccm/RouteSpecificPool.class
 android/support/multidex/MultiDexExtractor.class
 com/google/android/gms/iid/MessengerCompat$zza.class
 android/support/v4/app/FragmentManagerImpl$2.class
@@ -789,8 +789,8 @@ android/support/v7/view/menu/MenuPresenter$Callback.class
 android/support/v4/view/ViewPropertyAnimatorCompat.class
 android/support/v4/widget/DrawerLayout$DrawerListener.class
 org/apache/http/protocol/UriPatternMatcher.class
-org/apache/http/client/protocol/ResponseAuthCache.class
 org/apache/http/impl/conn/AbstractPooledConnAdapter.class
+org/apache/http/client/protocol/ResponseAuthCache.class
 com/stripe/model/Subscription.class
 com/ondemandbay/taxianytime/utils/AndyUtils.class
 android/support/v7/app/ActionBarDrawerToggle.class
@@ -850,8 +850,8 @@ com/ondemandbay/taxianytime/AddPaymentActivity$1.class
 org/apache/http/HttpEntity.class
 com/ondemandbay/taxianytime/MainActivity$2.class
 com/stripe/model/Account.class
-org/apache/http/client/protocol/ClientContext.class
 org/apache/http/auth/params/AuthPNames.class
+org/apache/http/client/protocol/ClientContext.class
 android/support/annotation/VisibleForTesting.class
 com/facebook/model/PropertyName.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable$ArrowDirection.class
@@ -893,8 +893,8 @@ android/support/v7/view/menu/CascadingMenuPopup$1.class
 org/apache/http/protocol/HttpService$HttpRequestHandlerResolverAdapter.class
 com/stripe/model/Recipient.class
 com/ondemandbay/taxianytime/MainDrawerActivity$13.class
-android/support/annotation/BoolRes.class
 org/apache/http/message/BasicHeaderValueFormatter.class
+android/support/annotation/BoolRes.class
 com/ondemandbay/taxianytime/MainActivity$1.class
 com/ondemandbay/taxianytime/ProfileActivity$3.class
 android/support/v4/app/FragmentManager.class

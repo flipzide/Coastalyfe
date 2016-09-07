@@ -494,7 +494,7 @@
     <string name="error_23">Walk ID Not Found</string>
     <string name="error_24">Invalid Phone Number</string>
     <string name="error_25">Phone number must be required.</string>
-    <string name="error_26">Social Login unique id must be required.</string>
+    <string name="error_26">You need to register using this social account first.</string>
     <string name="error_27">Email ID already Registred</string>
     <string name="error_28">Password field is required.</string>
     <string name="error_29">Email field is required</string>

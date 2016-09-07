@@ -4,9 +4,7 @@ package com.ondemandbay.taxianytime.utils;
  * @author Elluminati elluminati.in
  */
 public class Const {
-    // account: Arjunraj, project: taxinowv3
-    //AIzaSyBpcfE5gbXYRTAjXf7RAor0JdPQfKXm-z4
-//    public static final String PLACES_AUTOCOMPLETE_API_KEY= "AIzaSyA5rX_ts_dXsoev5ysSnU3TKHDderYlQK8";
+    public static final String PLACES_AUTOCOMPLETE_API_KEY= "AIzaSyA5rX_ts_dXsoev5ysSnU3TKHDderYlQK8";
 
     // map
     public static final String TAG = "Taxi Anytime";
@@ -14,29 +12,23 @@ public class Const {
     public static final int MAP_ZOOM = 20;
 
     // card io
-//    public static final String PUBLISHABLE_KEY = "pk_test_IUvvGvH07OcYt8mNu6rbCo1F";
+    public static final String PUBLISHABLE_KEY = "pk_test_IUvvGvH07OcYt8mNu6rbCo1F";
 
-//    public static final String MY_CARDIO_APP_TOKEN = "c15fa417f757415c9d750d1ef5ee5fd8";
-    // FCM
     public static final String DISPLAY_MESSAGE_REGISTER = "FCM_register";
     public static final String EXTRA_MESSAGE = "message";
     public static final String RESULT = "result";
     public static final String REGID = "regid";
 
-    public static final Boolean DEBUGAlpha2Go = true;
-    public static final int NOTIFICATION_ID = 0;
+    public static final String PUSH_LANGUAGE = "0";
+
 
     // web services
     public class ServiceType {
-//		 private static final String HOST_URL = "http://192.168.0.104/taxi_anytime/public/";
-        // "http://192.168.0.89/uber_events/api/public/";
-//http://taxinew.taxinow.xyz/
-        private static final String HOST_URL = "http://192.168.0.38/taxianytime_latest/public/";
-//        private static final String HOST_URL = "http://52.37.119.250/";
 
+        //http://taxinew.taxinow.xyz/
+        private static final String HOST_URL = "http://192.168.0.38/taxianytime_latest/public/";
         private static final String BASE_URL = HOST_URL + "user/";
-        // private static final String BASE_URL = HOST_URL +
-        // "uber_schedule/api/public/";
+
         public static final String LOGIN = BASE_URL + "login";
         public static final String REGISTER = BASE_URL + "register";
         public static final String ADD_CARD = BASE_URL + "addcardtoken";
@@ -46,15 +38,12 @@ public class Const {
         public static final String CREATE_REQUEST = BASE_URL + "createrequest";
         public static final String CREATE_FUTURE_REQUEST = BASE_URL
                 + "createfuturerequest";
-        // public static final String CREATE_FUTURE_REQUEST =
-        // "http://192.168.0.89/uber_schedule/api/public/user/" +
-        // "createfuturerequest";
+
         public static final String GET_REQUEST_LOCATION = BASE_URL
                 + "getrequestlocation?";
         public static final String GET_REQUEST_STATUS = BASE_URL
                 + "getrequest?";
 
-        public static final String REGISTER_MYTHING = BASE_URL + "thing?";
         public static final String REQUEST_IN_PROGRESS = BASE_URL
                 + "requestinprogress?";
         public static final String RATING = BASE_URL + "rating";
@@ -62,8 +51,6 @@ public class Const {
         public static final String SET_DESTINATION = BASE_URL
                 + "setdestination";
         public static final String GET_PAGES = HOST_URL + "application/pages";
-        public static final String GET_PAGES_DETAIL = HOST_URL
-                + "application/page/";
         public static final String GET_VEHICAL_TYPES = HOST_URL
                 + "application/types";
         public static final String FORGET_PASSWORD = HOST_URL
@@ -86,15 +73,8 @@ public class Const {
         public static final String LOGOUT = BASE_URL + "logout";
         public static final String DELETE_FUTURE_REQUEST = BASE_URL
                 + "deletefuturerequest";
-        // public static final String DELETE_FUTURE_REQUEST =
-        // "http://192.168.0.89/uber_schedule/api/public/user/" +
-        // "deletefuturerequest";
         public static final String GET_FUTURE_REQUEST = BASE_URL
                 + "getfuturerequest";
-        // public static final String GET_FUTURE_REQUEST =
-        // "http://192.168.0.89/uber_schedule/api/public/user/" +
-        // "getfuturerequest";
-        // http://uberforxapi.provenlogic.com/provider/rating";
         public static final String ADD_EVENT = BASE_URL + "addevent";
         public static final String GET_EVENT = BASE_URL + "getevents";
         public static final String UPDATE_DEVICE_TOKEN = BASE_URL
@@ -256,8 +236,9 @@ public class Const {
         public static final String UNIQUE_ID = "unique_id";
         public static final String CANCEL_REASON = "cancel_reason";
         public static final java.lang.String CURRENCY = "currency";
-        public static final String STRIPE_PUBLISHABLE_KEY ="stripe_publishable_key" ;
+        public static final String STRIPE_PUBLISHABLE_KEY = "stripe_publishable_key";
         public static final java.lang.String BROWSER_KEY = "gcm_browser_key";
+        public static final String LANGUAGE = "language";
     }
 
     // general

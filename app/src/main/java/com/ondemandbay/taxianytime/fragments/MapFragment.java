@@ -237,27 +237,13 @@ public class MapFragment extends BaseFragment implements
         isLocationFound = false;
         inflater = (LayoutInflater) activity
                 .getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-        // layoutMarker = (LinearLayout) view.findViewById(R.id.layoutMarker);
         view.findViewById(R.id.markerBubblePickMeUp).setOnClickListener(this);
         layoutBubble = view.findViewById(R.id.layoutBubble);
-        // llServiceText = (LinearLayout) view.findViewById(R.id.llServiceText);
-        // linearPointer = (LinearLayout) view.findViewById(R.id.linearPointer);
-        // linearPointer2 = (LinearLayout)
-        // view.findViewById(R.id.linearPointer2);
-        // layoutRgService = view.findViewById(R.id.layoutRgService);
         tvEstimatedTime = (TextView) view.findViewById(R.id.tvEstimatedTime);
-        // tvDurationUnit = (TextView) view.findViewById(R.id.tvDurationUnit);
-
-        // tvNo = (TextView) view.findViewById(R.id.tvNo);
-        // ivCard = (ImageView) view.findViewById(R.id.ivCard);
         layoutCardDetails = (LinearLayout) view
                 .findViewById(R.id.layoutCardDetails);
         layoutCardDetails.setOnClickListener(this);
 
-        // layoutFareQuote = (LinearLayout) view
-        // .findViewById(R.id.layoutFareQuote);
-        // view.findViewById(R.id.tvFareQuote).setOnClickListener(this);
-        // view.findViewById(R.id.btnFareInfo).setOnClickListener(this);
 
         tvTripPickupAddress = (TextView) view
                 .findViewById(R.id.tvTripPickupAddress);
@@ -326,11 +312,6 @@ public class MapFragment extends BaseFragment implements
         });
 
         btnMyLocation = (ImageButton) view.findViewById(R.id.btnMyLocation);
-        // btnSelectService = (MyFontButton) view
-        // .findViewById(R.id.btnSelectService);
-        // btnSelectService.setOnClickListener(this);
-        //
-        // drawer = (SlidingDrawer) view.findViewById(R.id.drawer);
 
         mMapView = (MapView) view.findViewById(R.id.map);
         mMapView.onCreate(mBundle);
@@ -341,7 +322,6 @@ public class MapFragment extends BaseFragment implements
         timePicker = new TimePicker(activity);
         fancyCoverFlow = (FancyCoverFlow) view
                 .findViewById(R.id.fancyCoverFlow);
-        // fancyCoverFlow.setUnselectedAlpha(1);
         fancyCoverFlow.setUnselectedSaturation(0f);
         fancyCoverFlow.setUnselectedScale(0.4f);
         fancyCoverFlow.setOnItemSelectedListener(this);
@@ -359,7 +339,6 @@ public class MapFragment extends BaseFragment implements
                                 .putPromoCode(appliedPromoCode);
                     }
                 }
-                // Returning false allows other listeners to react to the press.
 
                 if (event.getAction() == KeyEvent.ACTION_UP
                         && keyCode == KeyEvent.KEYCODE_BACK) {
@@ -1188,6 +1167,7 @@ public class MapFragment extends BaseFragment implements
                     map.put(Const.Params.PROMO_CODE, appliedPromoCode);
                     map.put(Const.Params.SOURCE_ADDRESS, tvTripPickupAddress
                             .getText().toString());
+                    map.put(Const.Params.LANGUAGE,Const.PUSH_LANGUAGE+"");
                     if (markerDestination != null) {
                         final LatLng dest = markerDestination.getPosition();
 
@@ -1522,6 +1502,7 @@ public class MapFragment extends BaseFragment implements
                 String.valueOf(new PreferenceHelper(activity).getPaymentMode()));
         map.put(Const.Params.TYPE,
                 String.valueOf(listType.get(selectedPostion).getId()));
+        map.put(Const.Params.LANGUAGE,Const.PUSH_LANGUAGE+"");
         // map.put(Const.Params.CARD_ID,
         // String.valueOf(new PreferenceHelper(activity).getDefaultCard()));
         // map.put(Const.Params.DISTANCE, "1");
@@ -1554,8 +1535,6 @@ public class MapFragment extends BaseFragment implements
         // requestQueue.add(new VolleyHttpRequest(Method.POST, map,
         // Const.ServiceCode.CREATE_REQUEST, this, this));
     }
-
-
     @Override
     public void onTaskCompleted(final String response, int serviceCode) {
         super.onTaskCompleted(response, serviceCode);
@@ -2156,8 +2135,8 @@ public class MapFragment extends BaseFragment implements
         @Override
         public void onReceive(Context context, Intent intent) {
             String response = intent.getStringExtra(Const.EXTRA_WALKER_STATUS);
-            // AppLog.Log("Response from walkerstatusReceiver------>>>>",
-            // response);
+             AppLog.Log("Response from walkerstatusReceiver------>>>>",
+             response);
             if (TextUtils.isEmpty(response))
                 return;
             stopCheckingStatusUpdate();
