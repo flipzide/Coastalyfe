@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_w_fare_estimate.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_w_fare_estimate.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrow_right.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_standard_off_client.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/res/drawable-mdpi-v4/ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/add_card_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/add_card_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/crop__divider.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/cropLibrary/unspecified/res/drawable-mdpi-v4/crop__divider.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cancel_trip.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/cancel_trip.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading_car.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/loading_car.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pickup_drop.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/pickup_drop.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cash_selector.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/cash_selector.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/divider_white.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/divider_white.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_bottomnub.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/check_ic.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/check_ic.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/fare_info.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/fare_info.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/dot_fare_estimate.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/dot_fare_estimate.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/right.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/right.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_ic_googleplayservices.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/history_cash.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/history_cash.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_small_light.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_btn_small_light.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_actionbar.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_actionbar.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_line.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/notification_line.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/wallet.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/wallet.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/edit_profile.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/edit_profile.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_light.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/drawable-mdpi-v4/powered_by_google_light.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/calendar.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/calendar.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/loading.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/loading.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_search.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/drawable-mdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/button_bg_create_request.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/button_bg_create_request.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_topnub.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/powered_by_google_dark.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/drawable-mdpi-v4/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/un_checkbox.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/un_checkbox.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/img_attention.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/img_attention.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ellipse_a.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ellipse_a.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ub__creditcard_discover.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ub__creditcard_discover.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/completed_btn_feedback.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/completed_btn_feedback.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/rubbish.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/rubbish.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cvv_line_payment_popup.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/cvv_line_payment_popup.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_profile.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_profile.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/check_ongoing.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/check_ongoing.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/star_feedback_blank.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/star_feedback_blank.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_google.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/btn_google.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_background.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_pickup.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/btn_pickup.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/big_popup.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/big_popup.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_notification.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_notification.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_blue_xout.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pin_client_org.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/pin_client_org.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_loding.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_loding.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_picker_magnifier.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_picker_magnifier.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/km.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/km.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/selected_service.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/selected_service.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/clock.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/clock.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/vehicle.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/vehicle.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bf_payment_light.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bf_payment_light.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrow_icon_fare_estimate.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/arrow_icon_fare_estimate.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/checkbox.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/checkbox.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/check_notification.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/check_notification.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_bill_trans.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_bill_trans.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_medium_off_client.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/res/drawable-mdpi-v4/ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon_close.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/icon_close.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_xout.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/line.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/line.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/info.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/info.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/call.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/call.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sarch_box.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/sarch_box.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/line_invoice.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/line_invoice.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_inverse_icon.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/section_box_history.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/section_box_history.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrow.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/arrow.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/pin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_selector.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_selector.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/sarch.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/sarch.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_box_arrived.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/notification_box_arrived.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ellipse_contacting.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ellipse_contacting.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/crop__ic_cancel.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/cropLibrary/unspecified/res/drawable-mdpi-v4/crop__ic_cancel.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/places_ic_clear.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/drawable-mdpi-v4/places_ic_clear.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_box_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_box_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/divider_line.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/divider_line.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/car.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/car.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_signin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_signin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/map_box.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/map_box.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_small_off_client.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/res/drawable-mdpi-v4/ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_line_payment_popup.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_line_payment_popup.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/calendar_mybookings.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/calendar_mybookings.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_fb.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/btn_fb.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_done.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/btn_done.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/close_button.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/close_button.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/app_name.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/app_name.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/default_user.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/default_user.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/notification_box.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/notification_box.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/crop__ic_done.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/cropLibrary/unspecified/res/drawable-mdpi-v4/crop__ic_done.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/back.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_star_black_48dp.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/camera_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/camera_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/divider_signin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/divider_signin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_plusone_tall_off_client.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/res/drawable-mdpi-v4/ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ellipse.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ellipse.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/overdue_btn_feedback.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/overdue_btn_feedback.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/photocam_register.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/photocam_register.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gmail.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/gmail.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cash.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/cash.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/check.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/check.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/menu.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/rate_star.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/rate_star.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_btn_small.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_btn_small.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/new_taxianytime_client/facebookSDK/unspecified/res/drawable-mdpi-v4/com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/popup.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/popup.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search_icon.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/search_icon.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/cash_notification.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/cash_notification.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/line_divider.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/line_divider.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/destination_pin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/destination_pin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/close_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/close_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/colck.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/colck.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/arrwo_notification.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/arrwo_notification.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ub__creditcard_mastercard.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ub__creditcard_mastercard.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ub__creditcard_amex.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ub__creditcard_amex.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ellipse_b.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ellipse_b.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/card_selected_payment.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/card_selected_payment.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gmail_w.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/gmail_w.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/attention_signin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/attention_signin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/box_future.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/box_future.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_items.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/no_items.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/star_feedback.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/star_feedback.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ub__creditcard_visa.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/ub__creditcard_visa.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/box_ongoing.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/box_ongoing.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/fb_signin.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/fb_signin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/picture_register.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/picture_register.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/pin_driver.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/pin_driver.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_menu.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_menu.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/divider_register.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/divider_register.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/fb_register.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/fb_register.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_splash.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-mdpi/bg_splash.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    }
+]

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\httpmime-4.3.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1dd0d38df9c6d21e893f2e52403f1cd99e91cd81">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.5_e16ccb3498f3240634a750ce64d54e48c2eca37f\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_579c07596b5d4c2943fd923f6aee0ebe6f29035d\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_1fe63fe528167fdf867a3425d5860856d917ccf3\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\apache-mime4j-core-0.7.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a81264fe0265ebe8fd1d8128aad06dc320de6eef">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\apache-mime4j-core-0.7.2_1d41949b890bf4d792d1b38f55553d39623bb525\classes.dex" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_3ec87ab2d91dd0285054929325eadca8dbf09c84\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_e362b0097f9702da78514d598770e59f93ec9e12\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_24d02ebb0649cc06c562d3a7cb3945cf27ee543b\classes.dex" />
+    </item>
+    <item
+        jar="E:\android-studio-ide-143.2821654-windows\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_d178f2e811d0892da7773400e5781f48e2eb3377\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\android-support-v7-recyclerview.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b5adf926c097329904a2f263e7b51f259020634">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v7-recyclerview_ed9a50753888fd37c2160356f36695ca30523c30\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_dbe5bc232ab603ebf2eb65fa05e339639e2cf697\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_18bd69dd642f13954597e386be379fd89a80dc95\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\android-query.0.26.7.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aa997823bc89263500714864ff136de1e6025b4e">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-query.0.26.7_47cb7b38280647c766aa991219ee75af6d0aa310\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_ff99596b36e8ff29895813351aa2ff7f66389751\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_c6251d56d815df8e2eca69f6a4981c867abda247\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\simple.facebook-2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9a197f31cff950884d322ee0bd6bf3b15a221e32">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\simple.facebook-2.1_643e94a5ce20050d5c247051917c33f2752cab5f\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_d7fd2e497859904efc6ee7f74c28eb8fab09c795\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_8f66dee8e28da8d8d194c9bda569e1656fa7b52f\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_02bba7931248adc73dab7ab9c5759bda4a7196e6\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_589eeeabab71e0f50511c9c0b141bd6604fd80c5\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_5d3a75625778e9e5f97db6849a7661251012f9f3\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.stripe\stripe-android\1.0.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92a76dcd3b6921f41b625de471a08abcf6f3d96a">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.stripe-stripe-android-1.0.4_8c64ca225a8954b3ced3455e1d9fce13d962fde4\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_ffbf3ccfdebb6bf5f7f3b624302736d3da1777d8\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\httpclient-4.3.5.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9783d89b8eea20a517a4afc5f979bd2882b54c44">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.5_201370b36a0eb83ecd6d00d2fb2c7dc6077295a0\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\mobile.connect-android-1.7.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6381ac7870074b58185f0033c4508a0013a9adaf">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\mobile.connect-android-1.7.2_80f2454ef46cc10955fa231a2259e051acc55745\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_f2da3e40a8c794d4e98b6bd81f09f82b2e6d4ae2\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_4fc31488334d86459de38d6029ff3ebb15e1bbb1\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_51877bc1793307aa7c758a1cd520e8a69cb49bea\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_8dacab9135827ce331055135dc2724f1fcaf7624\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\httpcore-4.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="31fbbff1ddbf98f3aa7377c94d33b0447c646b6e">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.2_7b7dedc97bf48f456b3911e61477aebd0158aaf7\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_8d8bae71bcbf548f4ca441f13e9f45142463b727\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4def3fa5f94fc91a0a86d729b74ce14b1a9211f5">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\classes_8d871d674b01dfdbff438ff465d56e4f438bdf05\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\elluminati\.gradle\caches\modules-2\files-2.1\com.stripe\stripe-java\1.40.0\ea7852585a78f79d85083f29e4a5050679d707b6\stripe-java-1.40.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea7852585a78f79d85083f29e4a5050679d707b6">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\stripe-java-1.40.0_d770a4eb01c24796af20dbdf01298ca934858371\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_9d8e12efeccd5714e1b42ef29b59d1488f164629\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\libs\splunk-mint-4.0.8.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19452a9f6424ddae60c51f97e93cb9bec3dddfd2">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\splunk-mint-4.0.8_1827e676965b879a7dc2ae144067dd9f4f36dec6\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_18bc80f91b7c26d06c1c0e82bc9c9d188ef701bd\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_a00805b2be1abbfd45b88861e77f72daec8bcb65\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_5a055c986d7ee488bae6a0ccbd65f43507442b52\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="83115c0f32976e1c270e2974888ad49d0c824b8b">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cab34482bf199d3523ac87faf2ad6e49f5bd3b5c\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_f07ce58a705c52be2bdcba3778822bc9dec5bfe9\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_e5100a15654008362880c7986ba37db926735966\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0b9fa3f910b026d74b1e1afe422dd3bd10aab8be">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2b4a91a211945576b5ca7efb48011a44ff4eefc5\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\new_taxianytime_clientwithevent_android_studio\facebookSDK\unspecified\jars\libs\bolts-android-1.1.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1f6ad8b98eca1360b3587007f465142c48b7ef5a">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\8\bolts-android-1.1.2_0653acca1dd52a625b1401b45e6309037454dcb1\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_29dd1368a556e65c4f6cf7888cb0f603b95283cf\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_30cd4aee028514d60502fe0f5b88faffae76d8e0\classes.dex" />
+    </item>
+    <item
+        jar="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="E:\HETAL\gitStudio\new_taxianytime_clientwithevent_android_studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_4accf16c7cee2feb5b0cbb173da02a0781778e05\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1019588864652",
+    "firebase_url": "https://taxinow-test.firebaseio.com",
+    "project_id": "taxinow-test",
+    "storage_bucket": "taxinow-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019588864652:android:1404e12b0c995402",
+        "android_client_info": {
+          "package_name": "com.ondemandbay.taxianytime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019588864652-bksk2287bmkll9s7rfnjj135hb35m1gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondemandbay.taxianytime",
+            "certificate_hash": "8AD2E77C45188DB441F818CBB9CF9BEC1395CB1F"
+          }
+        },
+        {
+          "client_id": "1019588864652-5acq4q4bl8cchl1l4fp1ejv5qc0hhf3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC99FKNc8gB7pQROZYybnF1YOrbPQkKNls"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019588864652-5acq4q4bl8cchl1l4fp1ejv5qc0hhf3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

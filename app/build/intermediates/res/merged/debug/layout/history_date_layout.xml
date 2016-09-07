@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <com.ondemandbay.taxianytime.component.MyFontTextView
+        android:id="@+id/tvDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/section_box_history"
+        android:paddingLeft="@dimen/activity_margin_mainscreen"
+        android:textAllCaps="true"
+        android:gravity="center_vertical"
+		android:textSize="@dimen/size_label"
+        android:textColor="@color/color_text_dark" />
+
+</LinearLayout>
