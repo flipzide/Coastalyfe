@@ -44,12 +44,12 @@
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-hdpi-v4/common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
-        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gmail_w.png",
-        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-hdpi/gmail_w.png"
-    },
-    {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/line.png",
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-hdpi/line.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/gmail_w.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-hdpi/gmail_w.png"
     },
     {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_plusone_standard_off_client.png",

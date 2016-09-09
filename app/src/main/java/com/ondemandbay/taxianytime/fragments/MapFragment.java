@@ -1139,8 +1139,7 @@ public class MapFragment extends BaseFragment implements
                 if ((datePicker.getDayOfMonth() == c.get(Calendar.DAY_OF_MONTH))
                         && (selectedHour == c.get(Calendar.HOUR_OF_DAY))
                         && (((selectedMinute - c.get(Calendar.MINUTE)) >= 0) && (((selectedMinute
-                        - c
-                        .get(Calendar.MINUTE)) <= 30)))) {
+                        - c.get(Calendar.MINUTE)) <= 30)))) {
 
                     AndyUtils.showCustomProgressDialog(activity,
                             getString(R.string.text_contacting), false, null);
@@ -1286,7 +1285,7 @@ public class MapFragment extends BaseFragment implements
     }
 
     private void getAddressFromLocation(final LatLng latlng, final EditText et) {
-        et.setText("Waiting for Address");
+        et.setText(activity.getResources().getString(R.string.text_waiting_for_address));
         et.setTextColor(Color.GRAY);
         new Thread(new Runnable() {
             @Override

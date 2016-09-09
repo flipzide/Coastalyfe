@@ -416,12 +416,12 @@
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-xhdpi/ub__button_centerlocation_pressed.png"
     },
     {
-        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
-        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
-    },
-    {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ellipse_contacting.png",
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-xhdpi/ellipse_contacting.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/powered_by_google_dark.png",
@@ -700,12 +700,12 @@
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
-        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rate_star.png",
-        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-xhdpi/rate_star.png"
-    },
-    {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/arrow.png",
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-xhdpi/arrow.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/rate_star.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-xhdpi/rate_star.png"
     },
     {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/box_future.png",

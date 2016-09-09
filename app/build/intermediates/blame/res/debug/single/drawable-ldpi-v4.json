@@ -284,12 +284,12 @@
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-ldpi/check_ongoing.png"
     },
     {
-        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/picture_register.png",
-        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-ldpi/picture_register.png"
-    },
-    {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/attention_signin.png",
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-ldpi/attention_signin.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/picture_register.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/src/main/res/drawable-ldpi/picture_register.png"
     },
     {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/notification_box_arrived.png",

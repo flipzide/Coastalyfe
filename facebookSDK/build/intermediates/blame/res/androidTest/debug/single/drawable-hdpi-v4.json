@@ -48,12 +48,12 @@
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_blue_background.9.png"
     },
     {
-        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png",
-        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png"
-    },
-    {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png",
         "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png",
+        "source": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/bundles/debug/res/drawable-hdpi-v4/com_facebook_button_blue_pressed.9.png"
     },
     {
         "merged": "/home/grishma/avani/studio project/basecopyTaxi/new_taxianytime_client/facebookSDK/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/com_facebook_tooltip_blue_bottomnub.png",

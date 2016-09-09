@@ -349,8 +349,6 @@ public class ParseContent {
                 // activity);
                 if (jsonObject.getJSONArray(KEY_ERROR_MESSAGES).getInt(0) == 11) {
                     preferenceHelper.Logout();
-//				Const.isTokenExpired = true;
-//				Const.isShowNoteDialog = false;
                     Intent i = new Intent(activity, MainActivity.class);
                     i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_CLEAR_TASK);
                     activity.startActivity(i);
@@ -487,10 +485,6 @@ public class ParseContent {
                     mainDrawerActivity.goToMainActivity();
                 }
             }
-
-
-
-            // AppLog.Log("payment", preferenceHelper.getPaymentMode()+"");
         } catch (Exception e) {
             e.printStackTrace();
         }
